@@ -1,2 +1,2 @@
-# AndroidTest
+# AndroidExample
 ทดลองเขียนโปรแกรม Android บน Eclipse
